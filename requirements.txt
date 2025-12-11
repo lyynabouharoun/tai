@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 opencv-python
 scikit-image
 matplotlib
 numpy
+=======
+opencv-python
+scikit-image
+matplotlib
+numpy
+>>>>>>> 88b7f9095c81ba76bf4c7af5c212677e8aa228f8
